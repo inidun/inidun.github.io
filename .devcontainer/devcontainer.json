@@ -1,0 +1,36 @@
+{
+	"name": "Jekyll",
+    "dockerfile": "Dockerfile",
+    "image": "inidun/dev:latest",
+    "mounts": [],
+	// Use 'settings' to set *default* container specific settings.json values on container create.
+	// You can edit these settings after create using File > Preferences > Settings > Remote.
+	"settings": {
+		"terminal.integrated.shell.linux": "/bin/bash"
+	},
+    //"remoteUser": "vscode",
+	"runArgs": ["--network","host"],
+	"appPort": [
+		4000
+	],
+	// Uncomment the next line to run commands after the container is created.
+	// "postCreateCommand": "cd ${input:projectName} && bundle install",
+
+    // Comment out this line to run as root.
+    // Linux users: update Dockerfile with your user's UID/GID if not 1000
+	// "runArgs": [ "-u", "vscode" ],
+
+	// Add the IDs of extensions you want installed when the container is created in the array below.
+	"extensions": [
+		"redhat.vscode-yaml",
+		"sissel.shopify-liquid",
+		"ginfuru.ginfuru-vscode-jekyll-syntax",
+		"ginfuru.vscode-jekyll-snippets",
+		"yzhang.markdown-all-in-one",
+		"davidanson.vscode-markdownlint",
+		"ecmel.vscode-html-css",
+		"aeschli.vscode-css-formatter",
+		"streetsidesoftware.code-spell-checker",
+		"ms-vscode.wordcount"
+    ]
+}
