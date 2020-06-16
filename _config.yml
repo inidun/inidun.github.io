@@ -281,7 +281,7 @@ compress_html:
     envs: development
 
 
-# Defaults
+# Front Matter Defaults (https://jekyllrb.com/docs/configuration/front-matter-defaults/)
 defaults:
   # _posts
   - scope:
