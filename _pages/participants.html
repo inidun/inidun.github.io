@@ -1,0 +1,47 @@
+---
+permalink: /participants/
+layout: single
+author_profile: true
+---
+
+    <h2>Core Team</h2>
+
+    <br><br>
+    {% for person in site.authors %}
+    {% if person.role == 'Researcher' %}
+    <div class="content">
+        <div class="row">
+            <div class="col-xs-2 col-sm-4 col-md-4 col-lg-4 col-xl-4" style="width: 16rem; height: 16rem;">
+                {% if person.picture %}
+                 <img class="img-circle" src="{{ site.baseurl }}/images/{{ person.picture }}.jpg" align="left">
+                {% else %}
+                <img class="img-circle" src="{{ site.baseurl }}/images/beatnik.jpg" align="left">
+                {% endif %}
+            </div>
+            <div class="col-xs-6 col-sm-8 col-md-8 col-lg-9 col-xl-10">
+                <h3><a href="{{ site.baseurl }}{{ person.url }}">{{ person.name }}</a>
+
+                {% if person.twitter %}
+                <a href="https://twitter.com/{{ person.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a>
+                {% endif %}
+                {% if person.github %}
+                <a href="https://github.com/{{ person.github }}" target="_blank"><i class="fa fa-github"></i></a>
+                {% endif %}
+                {% if person.email %}
+                <a href="mailto:{{ person.email }}"><i class="fa fa-envelope"></i></a>
+                {% endif %}
+                {% if person.website %}
+                <a href="{{person.website}}" target="_blank"><i class="fa fa-globe"></i></a>
+                {% endif %}</h3>
+
+                <h4>{{person.title}}</h4>
+                <p>{{person.description}}</p>
+             </div>
+        </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+
+    <script>
+
+

@@ -22,7 +22,7 @@ subtitle                 : "Digital Approaches to Global Conceptual History" # s
 name                     : &name "International Ideas at UNESCO"
 description              : &description "A Digital Approaches to Global Conceptual History"
 url                      : https://inidun.github.io
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "inidun/inidun.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -294,3 +294,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: _participants
+    values:
+      layout: user_profile

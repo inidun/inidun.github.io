@@ -2,8 +2,12 @@
 
 Benjamin G. Martin:
   name        : "Benjamin G. Martin"
-  bio         : "What do you want, jewels? I am a very extravagant man."
+  role        : "Researcher"
+  title       : "Title"
+  bio         : "....."
+  picture     : "/images/ben_martin.jpg"
   avatar      : "/images/ben_martin.jpg"
+  url         : "/participants/ben_martin/"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -17,8 +21,11 @@ Benjamin G. Martin:
 
 Fredrik Norén:
   name        : "Fredrik Norén"
+  role        : "Researcher"
   bio         : "I ordered what?"
+  picture     : "/images/fredrik_noren.jpg"
   avatar      : "/images/fredrik_noren.jpg"
+  url         : "/participants/fredrik_noren/"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
