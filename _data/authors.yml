@@ -1,0 +1,29 @@
+# Authors
+
+Benjamin G. Martin:
+  name        : "Benjamin G. Martin"
+  bio         : "What do you want, jewels? I am a very extravagant man."
+  avatar      : "/images/ben_martin.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:xyz@zyz.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"
+
+Fredrik Norén:
+  name        : "Fredrik Norén"
+  bio         : "I ordered what?"
+  avatar      : "/images/fredrik_noren.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:fredrik.noren@umu.se"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/rhymeswithsackit"
+

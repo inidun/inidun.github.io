@@ -5,8 +5,4 @@
 layout: single
 ---
 
-This project uses the tools of large-scale digital text analysis to explore thousands of documents produced by the United Nations Educational, Scientific and Cultural Organization (UNESCO) from its foundation in 1945 to 2015. The purpose of this project is to use the vast quantity of texts produced by this global institution to understand how “international ideas,” the core concepts that define the terms of international debate, developed and changed over time. Focusing on how concepts related to culture and communication affected and were affected by decolonization, our approach will shed light on the intellectual history of the process by which international society became global.
-
-Funded by the [Swedish Research Council (Vetenskapsrådet)](https://www.vr.se/english), the project is run by Benjamin Martin (Department of History of Science and Ideas, Uppsala University) in collaboration Fredrik Norén (Umeå University) and systems developers at [Humlab Umeå](https://www.umu.se/en/humlab/). Together we will apply cutting-edge methods of digital text analysis, including topic modeling and word embedding models, to a large sample of texts (ca 20 million words) including minutes from UNESCO’s General Conference, legal agreements, and UNESCO’s magazine Courier.
-
-The goals of our project are two: to contribute to our understanding of the international intellectual history of decolonization and to explore the power of digital methods for the emerging field of global conceptual history. Today, when global cooperation is more important than ever, understanding the role of culture and communication in international relations seems vital. Investigating the international history of these concepts is a good place to start.
+This is the index page

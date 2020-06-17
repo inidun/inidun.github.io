@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "International Ideas at UNESCO: Digital Approaches to Global Conceptual History"
+title                    : "International Ideas at UNESCO"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Digital Approaches to Global Conceptual History" # site tagline that appears below site title in masthead
 name                     : &name "International Ideas at UNESCO"
 description              : &description "A Digital Approaches to Global Conceptual History"
 url                      : https://inidun.github.io
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "International Ideas at UNESCO"
-  avatar           : "unesco-stair.jpg"
+  avatar           : "images/unesco-stair.jpg"
   bio              : "Digital Approaches to Global Conceptual History"
   location         : "Sweden"
   email            :
@@ -140,11 +140,19 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
+collections:
+  participants:
+    output: true
+    permalink: /:collection/:path/
+  posts:
+    output: true
+    permalink: /:collection/:path/
 
 # Reading Files
 include:
   - .htaccess
   - _pages
+
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -198,32 +206,17 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-# Collections
-# collections:
-#   docs:
-#     output: true
-#     permalink: /:collection/:path/
-#   recipes:
-#     output: true
-#     permalink: /:collection/:path/
-#   pets:
-#     output: true
-#     permalink: /:collection/:path/
-#   portfolio:
-#     output: true
-#     permalink: /:collection/:path/
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed                       # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 5                               # Amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Stockholm                # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -231,7 +224,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme
 
@@ -240,7 +233,7 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme
 
@@ -294,3 +287,10 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
