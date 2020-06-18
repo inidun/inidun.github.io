@@ -4,4 +4,6 @@ layout: single
 author_profile: true
 ---
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec mollis. Quisque convallis libero in sapien pharetra tincidunt. Aliquam elit ante, malesuada id, tempor eu, gravida id, odio. Maecenas suscipit, risus et eleifend imperdiet, nisi orci ullamcorper massa, et adipiscing orci velit quis magna. Praesent sit amet ligula id orci venenatis auctor. Phasellus porttitor, metus non tincidunt dapibus, orci pede pretium neque, sit amet adipiscing ipsum lectus et libero. Aenean bibendum. Curabitur mattis quam id urna. Vivamus dui. Donec nonummy lacinia lorem. Cras risus arcu, sodales ac, ultrices ac, mollis quis, justo. Sed a libero. Quisque risus erat, posuere at, tristique non, lacinia quis, eros.
+A graduate of the University of Chicago (AB, 1996) and Columbia University (PhD, 2006), Benjamin G. Martin studies the political and intellectual history of international cultural relations. Based in Stockholm since 2010, Martin works at Uppsala University as researcher in the Department of History of Science and Ideas. Recent work includes _The Nazi-Fascist New Order for European Culture_ (Harvard University Press, 2016) and articles related to his [research project "The Culture of International Society,"](http://www.benjamingmartin.com/cultintsoc) which was funded by the Swedish Foundation for Humanities and Social Science (2017-2019).  
+
+More information is avaiable at [his personal website](http://www.benjamingmartin.com/).
