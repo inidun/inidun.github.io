@@ -1,8 +1,8 @@
 ---
 author: Benjamin G. Martin
-title: 'Ben''s first blog post'
+title: Ben's first blog post
 date: 2020-06-14
-permalink: /posts/2020/06/bens-first-blog-post/
+permalink: /posts/2020/06/14/bens-first-blog-post/
 tags:
   - cool posts
   - category1

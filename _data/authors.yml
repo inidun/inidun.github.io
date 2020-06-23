@@ -1,12 +1,16 @@
 # Authors
-
-Benjamin G. Martin:
+"Benjamin G. Martin":
   name        : "Benjamin G. Martin"
   role        : "Researcher"
   title       : "Title"
-  bio         : "....."
+  bio         : "Biography..."
+  bio_short   : "A short description..."
   picture     : "/images/ben_martin.jpg"
   avatar      : "/images/ben_martin.jpg"
+  biblio:
+  - ref: "[Author Last Name] [Author First/Middle Name Initial(s)]. [Title of the article]. [Name of the Newspaper]. [Publication Date]. [URL]. Accessed [Access Date]."
+  - ref: "[Author Last Name] [Author First/Middle Name Initial(s)]. [Title of the chapter]. In: [Author/Editor Last Name] [Author/Editor First/Middle Name Initial(s)], [abbr. contributor’s role as applicable]. [Title of the Book]. [Publisher Location]: [Publisher Name]; [Publication Year]:[Page number starts]-[ends]."
+  - ref: "[Organization Name] or [Author Last Name] [Author First/Middle Name Initial(s)]. [Web site Name]. [URL]. Published [Date (if available)]. Update [Date (if available)]. Accessed [Access Date]."
   url         : "/participants/ben_martin/"
   links:
     - label: "Email"
@@ -19,13 +23,19 @@ Benjamin G. Martin:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/extravagantman"
 
-Fredrik Norén:
+"Fredrik Norén":
   name        : "Fredrik Norén"
   role        : "Researcher"
-  bio         : "I ordered what?"
+  title       : "Title"
+  bio         : "Biography..."
+  bio_short   : "A short description..."
   picture     : "/images/fredrik_noren.jpg"
   avatar      : "/images/fredrik_noren.jpg"
   url         : "/participants/fredrik_noren/"
+  biblio:
+  - ref: "[Author Last Name] [Author First/Middle Name Initial(s)]. [Title of the article]. [Name of the Journal]. [Publication Year];[Volume Number]([Issue Number]):[Page number starts]-[ends]. [doi:Digital Object Identifier] or [URL]. Accessed [Access Date]]."
+  - ref: "[Author Last Name] [Author First/Middle Name Initial(s)]. [Title of the article]. [Name of the Magazine]. [Publication Date];[Volume Number]([Issue Number]):[Page number starts]-[ends]."
+  - ref: "[Author Last Name] [Author First/Middle Name Initial(s)]. [Title of the E-Book]. [Publisher Location]: [Publisher Name]; [Publication Year]. [URL]. Accessed [Access Date]."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -34,3 +44,7 @@ Fredrik Norén:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/rhymeswithsackit"
 
+"Dummy":
+  name        : "Beatnik"
+  role        : "Dummy"
+  title       : "Robot"
