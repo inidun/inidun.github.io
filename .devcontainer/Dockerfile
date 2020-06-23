@@ -69,11 +69,11 @@ ENV LANG=en_US.UTF-8 \
     LANGUAGE=en_US
 
 # RUN mkdir -p $JEKYLL_VAR_DIR $JEKYLL_DATA_DIR $JEKYLL_BIN \
-
+ENV JEKYLL_VERSION="4.0.1"
 RUN gem update --system \
     && gem install --force bundler \
     && bundle config set system 'true' \
-    && gem install jekyll
+    && gem install jekyll  --version $JEKYLL_VERSION
     # --install-dir $JEKYLL_VAR_DIR \
     #    --bindir $JEKYLL_BIN --version $JEKYLL_VERSION -- --use-system-libraries
     #&& gem install nokogiri \
