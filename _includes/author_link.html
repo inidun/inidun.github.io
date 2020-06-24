@@ -1,0 +1,4 @@
+{% assign author = post.author | default: post.authors[0] | default: site.author %}
+{% assign author = site.data.authors[author] | default: author %}
+
+<a href="{{ site.baseurl }}{{ author.url }}" style="text-decoration: none">{{ author.name }}</a>
