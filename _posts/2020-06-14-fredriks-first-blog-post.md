@@ -3,7 +3,7 @@ author: Fredrik Norén
 title: Fredrik's first blog post
 date: 2020-06-14
 permalink: /posts/2020/06/14/fredriks-first-blog-post/
-hide: yes
+hidden: true  
 tags:
   - cool posts
   - category1
