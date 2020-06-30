@@ -1,6 +1,7 @@
 ---
 permalink: /project/
 layout: single
+title: International Ideas at UNESCO
 author_profile: true
 ---
 

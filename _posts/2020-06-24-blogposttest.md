@@ -1,4 +1,5 @@
 ---
+author: Benjamin G. Martin
 layout: single
 title:  "Welcome! Setting up and getting started"
 date:   2020-06-24 
