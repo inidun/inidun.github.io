@@ -15,13 +15,13 @@
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:xyz@zyz.com"
+      url: "mailto:benjamin.martin@idehist.uu.se"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://thewhip.com"
+      url: "http://www.benjamingmartin.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/extravagantman"
+      url: "https://twitter.com/BenGMartinHist"
 
 "Fredrik Norén":
   name        : "Fredrik Norén"
