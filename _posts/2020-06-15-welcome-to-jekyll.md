@@ -3,6 +3,7 @@ layout: single
 title:  "Welcome to Jekyll!"
 date:   2020-06-15 09:22:37 +0000
 permalink: /posts/2020/06/15/welcome-to-jekyll/
+hide: yes
 categories: jekyll update
 hidden: true
 ---
