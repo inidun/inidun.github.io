@@ -95,7 +95,8 @@ analytics:
 author:
   name             : "International Ideas at UNESCO"
   avatar           : "images/unesco-stair.jpg"
-  bio              : "Digital Approaches to Global Conceptual History"
+  bio              : 'Digital Approaches to Global Conceptual History<br><br>
+                     <span style="color: rgba(0,139,248,1)">Follow the project</span>'
   location         : "Sweden"
   email            :
   links:
@@ -113,10 +114,13 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/inidun"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Feed"
+      icon: "fas fa-fw fa-rss-square"
+      url: "/feed.xml"
 
 # Site Footer
 footer:
@@ -224,7 +228,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  # - jekyll-feed
+  - jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme
 
@@ -233,7 +237,7 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  # - jekyll-feed
+  - jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme
 
