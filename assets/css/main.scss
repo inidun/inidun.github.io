@@ -17,6 +17,14 @@ article a {
     text-decoration: none
 }
 
+article a:hover {
+    color: rgb(0, 102, 180);
+}
+
+article a:visited {
+    color: rgba(0,139,248,1); 
+}
+
 .page__footer-follow a {
     font-weight: normal;
 }

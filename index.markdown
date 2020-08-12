@@ -5,38 +5,15 @@ classes:
   - landing
   - dark-theme
 author_profile: false
-title: "Front page"
-
-feature_row:
-  - # image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    # alt: "placeholder image 1"
-    title: "Blog"
-    excerpt: "To put blog posts here I must expand on `feature_row` in `_includes`. Also: Buttons have been right aligned. Yay!"
-    url: "#test-link"
-    btn_label: "other button style..."
-    btn_class: "btn--small align-right"
-  - # image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    # alt: "placeholder image 2"
-    title: "Colors"
-    excerpt: "Change color to `color:rgba(0,139,248,1)` to get that nice UNESCO feel"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--inverse align-right"
-  - # image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Footer"
-    excerpt: "Either override footer or add logos another way."
-
+title: "International Ideas at UNESCO"
 ---
 
 <style>
-  h1 { font-weight: normal;
-        font-size: 2em
-  }
-  a { color: rgba(0,139,248,1);
-      text-decoration: none
-  }
+  h1 {
+    font-weight: normal;
+    font-size: 2em
+  }  
 </style>
-
 
 ![image](/images/front_page_tmp.jpg)
 
