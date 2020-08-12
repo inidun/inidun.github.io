@@ -5,23 +5,43 @@ author_profile: true
 
 caption: "Introduction to {{ site.title }}"
 
-feature_row:
-  - image_path: "/images/ben_martin.jpg"
-    alt: "Benjamin G. Martin"
-    title: "Benjamin G. Martin"
-    excerpt: "A graduate of the University of Chicago (AB, 1996) and Columbia University (PhD, 2006), Benjamin G. Martin studies the political and intellectual history of international cultural relations."
-    url: "/participants/ben_martin"
-    btn_label: "Read More"
-    btn_class: "btn--small btn--inverse align-right"
-  - image_path: "/images/fredrik_noren.jpg"
-    alt: "Fredrik Norén"
-    title: "Fredrik Norén"
-    excerpt: "Fredrik Norén works as a senior research assistant at Humlab with a special focus on digital text analysis. Norén completed his PhD in media and communication at Umeå University in 2019, with a thesis on the formation of governmental information in Sweden 1965–1975."
-    url: "/participants/fredrik_noren"
-    btn_label: "Read More"
-    btn_class: "btn--small btn--inverse align-right"
+researchers:
+    - image_path: "/images/ben_martin.jpg"
+      alt: "Benjamin G. Martin"
+      title: "Benjamin G. Martin"
+      excerpt: "A graduate of the University of Chicago (AB, 1996) and Columbia University (PhD, 2006), Benjamin G. Martin studies the political and intellectual history of international cultural relations."
+      url: "/participants/ben_martin"
+      btn_label: "Read More"
+      btn_class: "btn--small btn--inverse align-right"
+    - image_path: "/images/fredrik_noren.jpg"
+      alt: "Fredrik Norén"
+      title: "Fredrik Norén"
+      excerpt: "Fredrik Norén works as a senior research assistant at Humlab with a special focus on digital text analysis. Norén completed his PhD in media and communication at Umeå University in 2019, with a thesis on the formation of governmental information in Sweden 1965–1975."
+      url: "/participants/fredrik_noren"
+      btn_label: "Read More"
+      btn_class: "btn--small btn--inverse align-right"
+
+developers:
+      - image_path: "https://www.umu.se/globalassets/personalbilder/andreas-marklund/Profilbild.jpg?w=185"
+        alt: "Andreas Marklund"
+        title: "Andreas Marklund"
+        excerpt: "Research project assistant."
+        url: "https://www.umu.se/personal/andreas-marklund/"
+        btn_label: "Read More"
+        btn_class: "btn--small btn--inverse align-right"
+      - image_path: "https://www.umu.se/globalassets/personalbilder/roger-mahler/Profilbild.jpg?w=185"
+        alt: "Roger Mähler"
+        title: "Roger Mähler"
+        excerpt: "Senior software developer at Humlab."
+        url: "https://www.umu.se/personal/roger-mahler/"
+        btn_label: "Read More"
+        btn_class: "btn--small btn--inverse align-right"
 
 ---
 <h2>Researchers</h2>
 
-{% include feature_row type="left" %}
+{% include feature_row type="left" id="researchers" %}
+
+<h2>Developers</h2>
+
+{% include feature_row id="developers" %}

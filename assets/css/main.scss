@@ -8,11 +8,19 @@
 @import "minimal-mistakes"; // main partials
 
 .author__name {
-    font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
     font-size: 1em;
     color: rgba(0,139,248,1) !important
 }
 
-a { color: rgba(0,139,248,1);
+article a {
+    color: rgba(0,139,248,1);
     text-decoration: none
+}
+
+.page__footer-follow a {
+    font-weight: normal;
+}
+
+.site-title {
+    font-weight: normal;
 }
