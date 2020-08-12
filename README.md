@@ -1,6 +1,6 @@
 # inidun.github.io
 
-Webpage for the [`International Ideas at UNESCO`](https://inidun.github.io/) project.
+Webpage for the [`International Ideas at UNESCO`](https://inidun.github.io/)-project.
 
 ## Commands
 
