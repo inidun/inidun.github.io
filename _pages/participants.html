@@ -2,32 +2,26 @@
 layout: single
 permalink: /participants/
 author_profile: true
+
+caption: "Introduction to {{ site.title }}"
+
+feature_row:
+  - image_path: "/images/ben_martin.jpg"
+    alt: "Benjamin G. Martin"
+    title: "Benjamin G. Martin"
+    excerpt: "A graduate of the University of Chicago (AB, 1996) and Columbia University (PhD, 2006), Benjamin G. Martin studies the political and intellectual history of international cultural relations."
+    url: "/participants/ben_martin"
+    btn_label: "Read More"
+    btn_class: "btn--small btn--inverse align-right"
+  - image_path: "/images/fredrik_noren.jpg"
+    alt: "Fredrik Norén"
+    title: "Fredrik Norén"
+    excerpt: "Fredrik Norén works as a senior research assistant at Humlab with a special focus on digital text analysis. Norén completed his PhD in media and communication at Umeå University in 2019, with a thesis on the formation of governmental information in Sweden 1965–1975."
+    url: "/participants/fredrik_noren"
+    btn_label: "Read More"
+    btn_class: "btn--small btn--inverse align-right"
+
 ---
 <h2>Researchers</h2>
 
-<div class="grid__wrapper">
-{% for person_hash in site.data.authors %}
-{% assign person = person_hash[1] %}
-{% if person.role == 'Researcher' %}
-
-<div class="grid__item">
-    
-        <a href="{{ site.baseurl }}{{ person.url }}">{{ person.name }}</a>
-
-        {% if person.picture %}
-        <img class="img-circle" src="{{ person.picture }}" align="left">
-        {% else %}
-        <img class="img-circle" src="/images/beatnik.jpg" align="left">
-        {% endif %}
-
-        {%- if person.bio_short -%}
-        <div class="archive__item-excerpt">
-            {{- person.bio_short | markdownify -}}
-        </div>
-        {% endif %}
-</div>   
-
-
-{% endif %}
-{% endfor %}
-</div>
+{% include feature_row type="left" %}

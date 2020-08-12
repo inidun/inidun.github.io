@@ -1,9 +1,15 @@
 ---
 permalink: /project/
 layout: single
-title: International Ideas at UNESCO
 author_profile: true
 ---
+
+<style>  
+  a { color: rgba(0,139,248,1);
+      text-decoration: none
+  }
+</style>
+
 
 The transnational exchange of ideas is a central aspect of globalization, but historians have struggled to find approaches that deal adequately with the international character of modern intellectual life. In this project, we propose a fresh approach to this problem: using large-scale digital methods to analyze the formation, evolution, and transmission of the international ideas produced in and through international organizations. Specifically, we conduct a multi-method historical study of concepts in thousands of documents generated within UNESCO from 1945 to 2015. 
 
