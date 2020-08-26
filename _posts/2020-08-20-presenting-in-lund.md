@@ -8,11 +8,9 @@ hidden: false
 
 ---
 
-## Presenting the project in Lund
+"Nordic Media Histories" was the topic of the three-day symposium at Lund University, 12-14 August 2020, to which I was invited to give one of two keynote presentations. (The other one was by USC historian Nick Cull, in whose company I was quite pleased to find myself.) But we were told that there was no need to focus on the Nordic countries; we should, rather, offer broad perspectives that could be of interest for media historians focusing on matters of propaganda and information in the post-1945 period. 
 
 {% include figure image_path="/images/Ben_in_Lund_20200813.jpg" alt="Ben presenting the project in Lund, 13 August 2020." caption="Ben presenting the project in Lund, 13 August 2020." %}
-
-"Nordic Media Histories" was the topic of the three-day symposium at Lund University, 12-14 August 2020, to which I was invited to give one of two keynote presentations. (The other one was by USC historian Nick Cull, in whose company I was quite pleased to find myself.) But we were told that there was no need to focus on the Nordic countries; we should, rather, offer broad perspectives that could be of interest for media historians focusing on matters of propaganda and information in the post-1945 period. 
 
 Seizing the moment to get busy with our INIDUN project, I presented a paper entitled "Transnational Media Histories of (or rather, through) UNESCO: An International and Digital Approach." Here, after presenting the project over all (and trying, more or less successfully, I think, to show its relevance to the context of the symposium), I discussed the results of my recent exploration of one part of our UNESCO text corpus: the organization's [standard-setting instruments](http://portal.unesco.org/en/ev.php-URL_ID=23772&URL_DO=DO_TOPIC&URL_SECTION=201.html), or SSIs. These are the conventions, resolutions, and declarations that UNESCO has adopted, some 82 in all (from the 1945 constitution that founded UNESCO to the "Recommendation on Open Educational Resources" of November 2019). Assembled as a text corpus, they amount to 286,235 words. By way of preliminary exploration, I fed this corpus into the online text analysis tool [Voyant](https://voyant-tools.org/), using this to identify word trends, collocates, and more.
 
