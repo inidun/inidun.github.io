@@ -4,7 +4,7 @@ author: Benjamin G. Martin
 title: Presenting the Project in Lund
 date: 2020-06-14
 permalink: /posts/2020/08/20/lund-blog-post/
-hidden: true
+hidden: false
 
 ---
 
