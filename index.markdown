@@ -15,7 +15,7 @@ title: "International Ideas at UNESCO"
   }  
 </style>
 
-![image](/images/front_page_tmp.jpg)
+{% include figure image_path="/images/front_page.jpg" alt="Young people at a UNESCO club meeting, Enghien-les-Bains, France, 1957 (photo: C. Bablin, UNESCO Gallery “Education Transforms Lives”)" caption="Young people at a UNESCO club meeting, Enghien-les-Bains, France, 1957 (photo: C. Bablin, UNESCO Gallery “Education Transforms Lives”)." %}
 
 # Welcome to <span style="color: rgba(0,139,248,1); ">{{ site.title }}</span>
 

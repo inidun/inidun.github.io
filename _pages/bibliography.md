@@ -7,7 +7,7 @@ title: Bibliography
 A bibliography of research works related to this research project is available as a [Zotero group library](https://www.zotero.org/groups/2505327/inidun).
  Please visit this (you do not need to be a Zotero user) and feel free to make suggestions or additions!
 
-{% include figure image_path="/images/20.-brining-books-to-the-people_columbia_1955_page-1.jpg" alt="Image of UNESCO book bus, Colombia 1955." caption="Image of UNESCO book bus, Colombia 1955." %}
+{% include figure image_path="/images/PHOTO0000003958.jpg" alt="Image of UNESCO book bus, Colombia 1955. Photo credit: UNESCO. Collection of UNESCO Archives." caption="Image of UNESCO book bus, Colombia 1955. Photo credit: UNESCO. Collection of UNESCO Archives." %}
 
 ## Bibliography
 
