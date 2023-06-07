@@ -4,7 +4,7 @@ author: Benjamin G. Martin
 title: Global and digital intellectual history?
 date: 2020-12-18
 permalink: /posts/2020/12/18/INIDUN-on-UU-DH-blog/
-hidden: false
+hidden: true
 
 ---
 Can intellectual history’s digital and global turns be brought together in a way that benefits both?

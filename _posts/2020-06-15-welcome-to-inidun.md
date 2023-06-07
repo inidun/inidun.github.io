@@ -5,6 +5,7 @@ date:   2020-06-30
 permalink: /posts/2020/06/30/welcome-to-inidun/
 categories: inidun update
 author: Benjamin G. Martin
+hidden: true
 
 
 ---
