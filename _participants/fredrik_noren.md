@@ -1,5 +1,5 @@
 ---
-title: Fredrik Norén
+title: Fredrik Mohammadi Norén
 layout: single
 author_profile: true
 ---
