@@ -6,6 +6,8 @@ main:
     url: /participants/
   - title: "Bibliography"
     url: /bibliography/
+  - title: "Publications"
+    url: /publications/
   # - title: "Blog"
   #   url: /posts/
  
