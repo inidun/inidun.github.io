@@ -4,10 +4,10 @@ main:
     url: /project/
   - title: "Participants"
     url: /participants/
-  - title: "Bibliography"
-    url: /bibliography/
   - title: "Publications"
     url: /publications/
+  - title: "Bibliography"
+    url: /bibliography/
   # - title: "Blog"
   #   url: /posts/
  
