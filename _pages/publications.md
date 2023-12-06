@@ -18,9 +18,9 @@ Here are the data sets, text corpora and publications we have produced and made 
        - This corpus consists of the texts of all articles published in the English-language edition of The UNESCO Courier between 1948 and 2020, and includes a comprehensive curated metadata index (document_index.csv).
        - Online at [Zenodo](https://zenodo.org/records/10083490).
        - POS-tagged and DTM versions of the curated article corpus are available in the [project GitHub release](https://github.com/inidun/curated_courier/releases/tag/0.3).
-     - Compete curated issue corpus, 1948-2020
-     - This corpus compiles the complete text of all Courier issues (English-language edition), 1948-2020.
-     - Online at [Zenodo](https://zenodo.org/records/10083490).
+     - Complete curated issue corpus, 1948-2020
+       - This corpus compiles the complete text of all Courier issues (English-language edition), 1948-2020.
+       - Online at [Zenodo](https://zenodo.org/records/10083490).
    - **Analytical tools and Supplementary materials:**
      - Courier-Lab
        - [Courier-Lab]( https://inidun.github.io/courier-lab/lab/index.html) allows you to explore the Courier text corpus through a variety of digital text analysis tools through a web-based Jupyter Notebook.
