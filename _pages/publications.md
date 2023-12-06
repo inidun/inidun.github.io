@@ -9,7 +9,7 @@ Here are the data sets, text corpora and publications we have produced and made 
 ***Text corpora and other data sets:***
 
 1. **UNESCO’s Standard-Setting Instruments**
-   - Standard-setting instruments, 1945-
+   - Standard-setting instruments, 1945-2019
      - This digital text corpus compiles the English-language texts of all Conventions, Declarations and Recommendations adopted by UNESCO’s General Conference (1945-2019).
      -  Available for download on our GitHub repository [“Legal Instruments”]( https://github.com/inidun/legal_instruments).
 2. **The UNESCO Courier:**
