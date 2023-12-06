@@ -24,7 +24,7 @@ The project focuses on three bodies of UNESCO texts:
 2.	UNESCO’s monthly magazine _The UNESCO Courier_, 1948-2020
 3.	The minutes of the biannual meetings of UNESCO’s General Conference, (published as _Proceedings_), 1945-2019
 
-For each of these, we have pursued two goals: first, to prepare a digital text corpus that is curated, fully machine readable and as accurate as reasonably possible; second, to apply tools of digital text analysis to these corpora so as to explore our historical questions and test the value of our approach. [Read more about these corpora and other project publications].
+For each of these, we have pursued two goals: first, to prepare a digital text corpus that is curated, fully machine readable and as accurate as reasonably possible; second, to apply tools of digital text analysis to these corpora so as to explore our historical questions and test the value of our approach. [Read more about these corpora and other project publications]({% link /publications/ %}).
 
 Funded by the [Swedish Research Council (Vetenskapsrådet)](https://www.vr.se/english), the project is run by Benjamin G. Martin (Department of History of Science and Ideas, Uppsala University) in collaboration with Fredrik Mohammadi Norén (School of Arts and Communcation, Malmö University) and systems developers at [Humlab Umeå](https://www.umu.se/en/humlab/).
 
