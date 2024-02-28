@@ -36,4 +36,4 @@ Here are the data sets, text corpora and publications we have produced and made 
 
 B. Martin and F. Mohammadi Norén, “Nature and Culture in the Age of Environmental Crisis: Digital Analysis of a Global Debate in The UNESCO Courier, 1948-2020”, in A. Rockenberger, S. Gilbert and J. Tiemann, eds., *DHNB2023 Conference Proceedings*. Digital Humanities in the Nordic and Baltic Countries Publications 5, 1 (Oslo, 2023): 274-86. DOI: [https://doi.org/10.5617/dhnbpub.10671](https://doi.org/10.5617/dhnbpub.10671)
 
-Benjamin G. Martin, Fredrik Mohammedi Norén, Roger Mähler, Andreas Marklund and Oriane Martin, “The Curated UNESCO Courier 1.0: Annotated Corpora for Digital Research in the Global Humanities” (*under review*)
+Benjamin G. Martin, Fredrik Mohammedi Norén, Roger Mähler, Andreas Marklund and Oriane Martin, “The Curated UNESCO Courier 1.0: Annotated Corpora for Digital Research in the Global Humanities,” Journal of Open Humanities Data, 10: 20, pp. 1–13. DOI: [https://doi.org/10.5334/johd.181](https://doi.org/10.5334/johd.181)
