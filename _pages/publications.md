@@ -39,4 +39,4 @@ B. Martin and F. Mohammadi Norén, “Nature and Culture in the Age of Environme
 
 Benjamin G. Martin, Fredrik Mohammedi Norén, Roger Mähler, Andreas Marklund and Oriane Martin, “The Curated UNESCO Courier 1.0: Annotated Corpora for Digital Research in the Global Humanities,” Journal of Open Humanities Data, 10: 20, pp. 1–13. DOI: [https://doi.org/10.5334/johd.181](https://doi.org/10.5334/johd.181)
 
-Fredrik Mohammadi Norén, “Balancing contentious concepts: Ideas of ‘communication' and ‘information' in UNESCO’s magazine *Courier* 1948–2020”. Conference paper: NordMedia 2023 (16-18 August 2023), Berge, Norway. Länk: https://urn.kb.se/resolve?urn=urn:nbn:se:mau:diva-66032
+Fredrik Mohammadi Norén, “Balancing contentious concepts: Ideas of ‘communication' and ‘information' in UNESCO’s magazine *Courier* 1948–2020”. Conference paper: NordMedia 2023 (16-18 August 2023), Berge, Norway. Länk: [https://urn.kb.se/resolve?urn=urn:nbn:se:mau:diva-66032](https://urn.kb.se/resolve?urn=urn:nbn:se:mau:diva-66032)
