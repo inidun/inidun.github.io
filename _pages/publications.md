@@ -35,8 +35,10 @@ Here are the data sets, text corpora and publications we have produced and made 
 
 ***Project publications***
 
+Benjamin G. Martin, Fredrik Mohammadi Norén, Roger Mähler, Andreas Marklund and Oriane Martin, “UNESCO’s Proceedings, 1945–2017: A Bilingual Digital Text Corpus,” *Journal of Open Humanities Data*, 11: 31, pp. 1–5. DOI: [https://doi.org/10.5334/johd.314](https://doi.org/10.5334/johd.314)
+
 B. Martin and F. Mohammadi Norén, “Nature and Culture in the Age of Environmental Crisis: Digital Analysis of a Global Debate in The UNESCO Courier, 1948-2020”, in A. Rockenberger, S. Gilbert and J. Tiemann, eds., *DHNB2023 Conference Proceedings*. Digital Humanities in the Nordic and Baltic Countries Publications 5, 1 (Oslo, 2023): 274-86. DOI: [https://doi.org/10.5617/dhnbpub.10671](https://doi.org/10.5617/dhnbpub.10671)
 
-Benjamin G. Martin, Fredrik Mohammedi Norén, Roger Mähler, Andreas Marklund and Oriane Martin, “The Curated UNESCO Courier 1.0: Annotated Corpora for Digital Research in the Global Humanities,” Journal of Open Humanities Data, 10: 20, pp. 1–13. DOI: [https://doi.org/10.5334/johd.181](https://doi.org/10.5334/johd.181)
+Benjamin G. Martin, Fredrik Mohammedi Norén, Roger Mähler, Andreas Marklund and Oriane Martin, “The Curated UNESCO Courier 1.0: Annotated Corpora for Digital Research in the Global Humanities,” *Journal of Open Humanities Data*, 10: 20, pp. 1–13. DOI: [https://doi.org/10.5334/johd.181](https://doi.org/10.5334/johd.181)
 
 Fredrik Mohammadi Norén, “Balancing contentious concepts: Ideas of ‘communication' and ‘information' in UNESCO’s magazine *Courier* 1948–2020”. Conference paper: NordMedia 2023 (16-18 August 2023), Berge, Norway. Länk: [https://urn.kb.se/resolve?urn=urn:nbn:se:mau:diva-66032](https://urn.kb.se/resolve?urn=urn:nbn:se:mau:diva-66032)
