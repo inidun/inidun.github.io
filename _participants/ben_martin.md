@@ -6,4 +6,4 @@ author_profile: true
 
 {{ site.data.authors[page.title].bio }}
 
-More information is available at [his personal website](http://www.benjamingmartin.com/).
+More information is available at [his personal website](https://www.benjamingmartin.com/).
